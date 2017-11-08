@@ -1,7 +1,14 @@
 * {
   font-family: "Helvetica", "Arial", "sans-serif";
 }
+
 body {
   padding-left: 30px;
   padding-right: 30px;
 }
+
+header {
+  height: 100px;
+  border-bottom: 1px solid #ccc;
+}
+
